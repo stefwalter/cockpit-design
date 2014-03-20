@@ -22,17 +22,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="3537.406"
-     inkscape:cy="430.80984"
+     inkscape:zoom="2"
+     inkscape:cx="3666.8381"
+     inkscape:cy="564.58845"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1014"
-     inkscape:window-x="0"
-     inkscape:window-y="27"
-     inkscape:window-maximized="1"
+     inkscape:window-width="1391"
+     inkscape:window-height="959"
+     inkscape:window-x="1924"
+     inkscape:window-y="17"
+     inkscape:window-maximized="0"
      inkscape:snap-bbox="true"
      showguides="true"
      inkscape:guide-bbox="true">
@@ -50,7 +50,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -11043,9 +11043,9 @@
        style="color:#000000;fill:#babdb6;fill-opacity:1;stroke:none;stroke-width:50;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect14987-6"
        width="54.542294"
-       height="11.313707"
+       height="18.813707"
        x="3773.0952"
-       y="227.51736"
+       y="199.01736"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/docker-run.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -11053,9 +11053,9 @@
        style="color:#000000;fill:#babdb6;fill-opacity:1;stroke:none;stroke-width:50;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect14987-6-1"
        width="58.772232"
-       height="11.313707"
+       height="18.813707"
        x="3713.2876"
-       y="227.51736"
+       y="199.01736"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/docker-run.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -11063,9 +11063,9 @@
        style="color:#000000;fill:#babdb6;fill-opacity:1;stroke:none;stroke-width:50;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect14987-6-1-4"
        width="9.4793911"
-       height="11.313707"
+       height="18.813707"
        x="3702.8284"
-       y="227.51736"
+       y="199.01736"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/docker-run.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -11073,9 +11073,9 @@
        style="color:#000000;fill:#babdb6;fill-opacity:1;stroke:none;stroke-width:50;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect14987-6-1-4-4"
        width="125.53606"
-       height="11.313707"
+       height="18.813707"
        x="3576.4302"
-       y="227.51736"
+       y="199.01736"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/docker-run.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -11083,32 +11083,9 @@
        style="color:#000000;fill:#3465a4;fill-opacity:1;stroke:none;stroke-width:50;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect14987-6-1-4-4-7"
        width="70.380417"
-       height="11.313707"
+       height="18.813707"
        x="3505.3789"
-       y="227.51736"
-       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/docker-run.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <rect
-       style="color:#000000;fill:#babdb6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect14350-3"
-       width="321.5"
-       height="3.5"
-       x="3505.5"
-       y="209.5"
-       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/docker-run.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <path
-       sodipodi:type="arc"
-       style="color:#000000;fill:#3465a4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="path14352-1"
-       sodipodi:cx="3559"
-       sodipodi:cy="174"
-       sodipodi:rx="13.5"
-       sodipodi:ry="13.5"
-       d="m 3572.5,174 a 13.5,13.5 0 1 1 -27,0 13.5,13.5 0 1 1 27,0 z"
-       transform="matrix(0.64285714,0,0,0.64285714,1288.6988,99.64286)"
+       y="199.01736"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/docker-run.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -11491,5 +11468,14 @@
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/docker-container.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;fill:#babdb6;fill-opacity:1;fill-rule:nonzero;stroke:#595b59;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect5050"
+       width="8.6619768"
+       height="23.511322"
+       x="3571.4197"
+       y="196.69414"
+       ry="2.1213202"
+       rx="2.1213202" />
   </g>
 </svg>
